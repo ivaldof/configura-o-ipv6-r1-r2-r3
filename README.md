@@ -82,7 +82,7 @@ interface g0/2
  no shutdown
 
 ipv6 route 2001:db8:acad:1::/64 2001:db8:acad:5::4
-ipv6 route 2001:db8:acad:3::/64 2001:db8:acad:5::2
+ipv6 route 2001:db8:acad:2::/64 2001:db8:acad:5::2
 
 ipv6 unicast-routing
 ```
